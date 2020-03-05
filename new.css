@@ -1,0 +1,11 @@
+.header {
+    color: aquamarine;
+    font-size: 1in;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+img {
+    width: 1500px;
+    height: 700px;
+    margin: 1px 1px 1px 1px;
+}
